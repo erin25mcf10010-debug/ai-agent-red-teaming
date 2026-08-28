@@ -1,0 +1,21 @@
+AI Agent Red Teaming Security Dataset
+
+Purpose:
+Dataset for training/testing an AI security testing assistant.
+
+Categories:
+1. prompt_injection
+2. system_prompt_extraction
+3. indirect_prompt_injection
+4. information_disclosure
+5. tool_abuse
+
+Number of examples:
+50 total
+10 examples per category
+
+Dataset source:
+Custom dataset created for this project.
+
+License:
+Original project-created dataset; no third-party dataset content is intentionally included.
