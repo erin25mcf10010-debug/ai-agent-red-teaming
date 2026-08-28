@@ -95,4 +95,13 @@ The current implementation does not yet automatically execute every generated fo
 
 ## Documentation
 
-Detailed project documentation is available in the `documentation` directory.
+## Documentation
+
+The project includes the following documentation and results:
+
+- `security_assessment_report.html` — detailed security assessment report
+- `security_assessment_report.json` — security assessment results
+- `test_results.json` — model testing results
+- `adaptive_results.json` — adaptive red-teaming results
+- `security_dataset.json` — security testing dataset
+- `dataset_info.txt` — dataset information
